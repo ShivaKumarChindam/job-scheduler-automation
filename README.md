@@ -1,21 +1,14 @@
 # job-scheduler-automation
-```markdown
-
-# Job Scheduler & Automation System
-
-
 
 A simplified internal automation engine for scheduling and running background tasks (e.g., sending emails, generating reports, syncing data). Features include job creation, real-time tracking, status simulation, and outbound webhook triggers on completion.
 
 
 
-**Live Demo**: [Deployed URL if available]  
+**Drive link**: https://drive.google.com/drive/folders/1dyUFBoY-MSW4itx7_-7KiwYHJeZ-Vl9P?usp=drive_link
 
-**Repository**: [Your GitHub Repo Link]
+**Repository**: 
 
-
-
-## Repository Structure
+# Repository Structure
 
 ```
 
@@ -64,8 +57,7 @@ job-scheduler-automation/
 ```
 
 
-
-## Tech Stack
+# Tech Stack
 
 - **Frontend**: React.js (Vite), Tailwind CSS, Axios, react-syntax-highlighter
 
@@ -77,7 +69,7 @@ job-scheduler-automation/
 
 
 
-## Database Schema
+# Database Schema
 
 **Table: jobs**
 
